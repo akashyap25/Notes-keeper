@@ -1,0 +1,12 @@
+#input {
+  word-wrap: break-word !important;
+}
+.text-poppins {
+  font-family: "Poppins", sans-serif !important;
+}
+.text-roboto {
+  font-family: "Roboto", sans-serif !important;
+}
+div.card-notes {
+  max-width: 20em !important;
+}
