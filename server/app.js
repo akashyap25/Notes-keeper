@@ -15,7 +15,7 @@ app.use(
 );
 
 mongoose.connect(
-  "mongodb+srv://westernfrog:Pottyboy%407483@users.r7xott4.mongodb.net/keep-notes",
+  "<mongodb connection url>",
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
